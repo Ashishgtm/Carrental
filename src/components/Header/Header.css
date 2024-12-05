@@ -1,0 +1,33 @@
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .logo a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  li {
+    margin-right: 2rem;
+    margin-left: 2rem;
+  }
+  
+  li a {
+    color: #fff;
+    text-decoration: none;
+  }
